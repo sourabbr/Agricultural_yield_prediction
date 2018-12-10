@@ -1,3 +1,4 @@
+#the functions
 import numpy as np
 from xlrd import open_workbook
 import matplotlib.pyplot as plt
